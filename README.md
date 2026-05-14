@@ -11,10 +11,10 @@ I'm a **Computer Science** student passionate about solving logic puzzles and bu
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🚀 Beyond the Code
-- 🎸 **Music:** I'm a huge music lover and I've been playing the guitar for years.
-- 🎨 **Art:** I enjoy drawing in my free time — it's the perfect creative outlet.
-- 🏊‍♀️ **Sports:** When I need to recharge, you'll find me at the swimming pool.
-- 💡 **Goal:** Combining my technical skills with my creative mindset to build something awesome.
+- 🎸 Huge music lover here who's been playing guitar for a while.
+- 🎨 I enjoy drawing sometimes — it's the perfect creative outlet.
+- 🏊‍♀️ When I need to recharge, you'll find me at the swimming pool.
+- 💡 My goal is combining my technical skills with my creative mindset to build something awesome.
 
 ---
 ### 📫 Connect with me:
