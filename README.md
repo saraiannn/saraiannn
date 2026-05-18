@@ -14,7 +14,7 @@ I'm a **Computer Science** student passionate about solving logic puzzles and bu
 - 🎸 Huge music lover here who's been playing guitar for a while.
 - 🎨 I enjoy drawing sometimes — it's the perfect creative outlet.
 - 🏊‍♀️ When I need to recharge, you'll likely find me at the swimming pool.
-- 💡 My goal is to bring together my technical skills with my creative mindset to build something awesome.
+- 💡 My goal is to bring together my technical skills and my creative mindset to build something awesome.
 
 ---
 ### 📫 Connect with me:
