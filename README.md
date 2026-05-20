@@ -1,6 +1,6 @@
 # Hi, I'm Sara!
 
-I'm a **Computer Science** student passionate about solving logic puzzles and building creative software.
+I'm a **Computer Science** student who enjoys solving logic puzzles and building creative software.
 
 ### 🔭 What I'm Up To
 - 🎓 **[Academic-Archive](https://github.com/saraiannn/Academic-Archive)**: Documenting my CS journey (Algorithms, Java, C, and Low-level).
