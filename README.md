@@ -8,13 +8,17 @@ I'm a **Computer Science** student who enjoys solving logic puzzles and building
 - 🌱 Currently deep-diving into: Java programming and OOD.
 
 ### 🛠️ My Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🚀 Beyond the Code
 - 🎸 Huge music lover here who's been playing guitar for a while.
 - 🎨 I enjoy drawing sometimes — it's the perfect creative outlet.
 - 🏊‍♀️ When I need to recharge, you'll likely find me at the swimming pool.
 - 💡 My goal is to bring together my technical skills and my creative mindset to build something awesome.
+
+### 🎧 On My Radar
+Here you can check out some of my favorite songs and artists and explore some of my playlists! 👇
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mrsieroxx?si=3b3fc39646f54428)
 
 ---
 ### 📫 Connect with me:
