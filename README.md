@@ -18,6 +18,7 @@ I'm a **Computer Science** student who enjoys solving logic puzzles and building
 
 ### 🎧 On My Radar
 Here you can check out some of my favorite songs and artists and explore some of my playlists! 👇
+
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mrsieroxx?si=3b3fc39646f54428)
 
 ---
